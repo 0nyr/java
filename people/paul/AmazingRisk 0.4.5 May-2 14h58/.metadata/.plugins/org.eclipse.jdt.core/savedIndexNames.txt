@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/onyr/Documents/code/java/paul/AmazingRisk 0.4.5 May-2 14h58/.metadata/.plugins/org.eclipse.jdt.core
+4269867080.index

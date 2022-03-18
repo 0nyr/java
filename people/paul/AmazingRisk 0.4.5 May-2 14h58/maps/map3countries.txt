@@ -1,0 +1,42 @@
+North America,Alaska,0.09,0.274
+North America,North West Territory,0.173,0.282
+North America,Greenland,0.409,0.206
+North America,Alberta,0.166,0.366
+North America,Ontario,0.243,0.366
+North America,Quebec,0.326,0.398
+North America,Western US,0.166,0.442
+North America,Eastern US,0.263,0.465
+North America,Central America,0.180,0.534
+Asia,Ural,0.694,0.358
+Asia,Siberia,0.756,0.282
+Asia,Yakutsk,0.868,0.229
+Asia,Kamchatka,0.923,0.267
+Asia,Irkutsk,0.805,0.320
+Asia,Mongolia,0.770,0.412
+Asia,Japan,0.875,0.435
+Asia,China,0.763,0.458
+Asia,Kazakhstan,0.673,0.442
+Asia,India,0.777,0.541
+Asia,Siam,0.784,0.534
+Asia,Middle East,0.604,0.549
+South America,Venezuela,0.215,0.603
+South America,Brazil,0.298,0.687
+South America,Peru,0.222,0.709
+South America,Argentina,0.229,0.786
+Europe,Britain,0.479,0.427
+Europe,Iceland,0.472,0.290
+Europe,Scandinavia,0.527,0.343
+Europe,Ukraine,0.604,0.366
+Europe,West Europe,0.465,0.519
+Europe,South Europe,0.611,0.496
+Europe,North Europe,0.513,0.458
+Africa,North Africa,0.458,0.610
+Africa,Egypt,0.541,0.572
+Africa,Congo,0.541,0.687
+Africa,East Africa,0.590,0.648
+Africa,South Africa,0.555,0.763
+Africa,Madagascar,0.604,0.770
+Oceania,Indonesia,0.819,0.610
+Oceania,Papua New Guinea,0.916,0.595
+Oceania,Western Australia,0.833,0.702
+Oceania,Eastern Australia,0.902,0.687

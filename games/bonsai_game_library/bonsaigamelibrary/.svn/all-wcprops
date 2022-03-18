@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 16
+/svn/!svn/ver/20
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/18/.project
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/18/COPYING
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/19/README
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/18/.classpath
+END

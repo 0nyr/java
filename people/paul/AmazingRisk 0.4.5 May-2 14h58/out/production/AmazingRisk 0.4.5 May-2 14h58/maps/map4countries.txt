@@ -1,0 +1,33 @@
+SouthWest Europe,Portugal,0.252,0.866,Spain
+SouthWest Europe,Spain,0.303,0.865,France,Portugal,Italy,Germany,Switzerland,Belgium
+SouthWest Europe,France,0.397,0.731,Spain,Italy,Germany,Switzerland,Belgium,UK
+SouthWest Europe,Italy,0.5,0.772,Switzerland,Austria,France,Slovenia,Croatia,Albania,Greece
+SouthEast Europe,Croatia,0.560,0.765,Italy,Albanie,Slovenia,Hungary,Serbia
+SouthEast Europe,Albania,0.612,0.859,Italy,Croatia,Greece,Serbia
+SouthEast Europe,Greece,0.635,0.886,Italy,Albania,Serbia,Turkey
+SouthEast Europe,Serbia,0.607,0.778,Albania,Turkey,Croatia,Hungary,Romania Bulgaria,Greece
+SouthEast Europe,Romania,0.654,0.731,Serbia,Hungary,Romania Bulgaria,Hungary,Ukraine
+SouthEast Europe,Bulgary,0.672,0.805,Serbia,Romania,Turkey,Albania,Greece
+West Europe,Ireland,0.308,0.550,UK,Iceland
+West Europe,UK,0.373,0.577,Iceland,France,Belgium,Netherlands,Denmark,Norway
+West Europe,Belgium,0.429,0.637,France,Netherlands,Germany,UK
+West Europe,Netherlands,0.439,0.604,Belgium,Germany,UK
+West Europe,Germany,0.490,0.624,Belgium,Netherlands,France,Switzerland,Austria,Hungary,Czechia,Poland,Denmark
+West Europe,Switzerland,0.467,0.731,Germany,Italy,France,Austria
+West Europe,Austria,0.537,0.704,Germany,Italy,Switzerland,Hungary,Slovakia,Czechia
+Central Europe,Hungary,0.584,0.718,Slovakia,Austria,Croatia,Italy,Ukraine,Romania
+Central Europe,Slovakia,0.584,0.684,Hungary,Austria,Czechia,Poland,Ukraine
+Central Europe,Czechia,0.537,0.349,Slovakia,Austria,Germany,Poland
+Central Europe,Poland,0.584,0.684,Slovakia,Czechia,Germany,Ukraine,Belarus
+North Europe,Iceland,0.299,0.241,UK,Ireland,Norway
+North Europe,Norway,0.481,0.416,Denmark,Iceland,UK,Sweden
+North Europe,Denmark,0.476,0.510,UK,Germany,Norway,Sweden
+North Europe,Sweden,0.523,0.463,Norway,Denmark,Poland,Finland
+North Europe,Finland,0.607,0.342,Sweden,Russia,Estonia
+North Europe,Estonia,0.621,0.422,Finland,Russia,Latvia,Sweden
+North Europe,Lativa,0.626,0.469,Estonia,Russia,Belarus,Lithuania
+North Europe,Lithuania,0.523,0.463,Belarus,Lativa,Poland
+East Europe,Russia,0.794,0.328,Belarus,Ukraine,Turkey,Estonia,Lativa,Lithuania
+East Europe,Belaurs,0.677,0.536,Russia,Ukraine,Lativa,Lithuania,Poland
+East Europe,Ukraine,0.700,0.630,Russia,Belarus,Poland,Slovakia,Hungraine,Romania
+East Europe,Turkey,0.817,0.845,Russia,Greece,Bulgria

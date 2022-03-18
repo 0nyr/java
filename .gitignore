@@ -1,0 +1,6 @@
+# These are the files that shouldn't be tracked by Git
+# Test cmd: git status --ignored
+
+# compiled files
+*.class
+target/

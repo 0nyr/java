@@ -1,0 +1,4 @@
+Europe,Britain,0.410,0.180,Iceland,Scandinavia
+Europe,Iceland,0.375,0.116,Scandinavia,Britain
+Europe,Scandinavia,0.470,0.110,Iceland,Britain,Ukraine
+Europe,Ukraine,0.547,0.174,Scandinavia

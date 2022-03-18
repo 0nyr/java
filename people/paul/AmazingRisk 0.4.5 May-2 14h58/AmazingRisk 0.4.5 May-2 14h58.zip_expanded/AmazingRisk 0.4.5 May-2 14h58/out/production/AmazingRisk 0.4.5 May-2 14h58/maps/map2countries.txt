@@ -1,0 +1,43 @@
+North America,Alaska,0.015,0.105,North West Territory,Alberta,Kamchatka
+North America,North West Territory,0.086,0.105,Alaska,Alberta,Ontario,Greenland
+North America,Greenland,0.328,0.086,North West Territory,Quebec,Iceland,Ontario
+North America,Alberta,0.051,0.192,North West Territory,Alaska,Ontario,Western US
+North America,Ontario,0.137,0.198,North West Territory,Alberta,Western US, Eastern US,Quebec,Greenland
+North America,Quebec,0.218,0.209,Ontario,Greenland,Eastern US
+North America,Western US,0.041,0.305,Alebrta,Ontario,Eastern US,Central America
+North America,Eastern US,0.153,0.296,Western US,Ontario,Quebec,Central America
+North America,Central America,0.066,0.417,Western US,Eastern US,Venezuela
+Asia,Ural,0.657,0.144,Ukraine,Kazakhstan,Siberia
+Asia,Siberia,0.710,0.157,Ural,China,Mongolia,Irkutsk,Yakutsk
+Asia,Yakutsk,0.817,0.113,Siberia,Irkutsk,Kamchatka
+Asia,Kamchatka,0.918,0.151,Yakutsk,Irkutsk,Mongolia,Japan,Alaska
+Asia,Irkutsk,0.760,0.180,Siberia,Mongolia,Kamchatka,Yakutsk
+Asia,Mongolia,0.850,0.261,Irkutsk,Siberia,China,Japan,Kamchatka
+Asia,Japan,0.907,0.306,Mongolia,Kamchatka
+Asia,China,0.750,0.284,Kazakhstan,Ural,Siberia,Mongolia,Siam,India,Philippines
+Asia,Kazakhstan,0.645,0.274,Ukraine,Ural,China,India,Middle East
+Asia,India,0.707,0.400,Middle East,Kazakhstan,China,Siam
+Asia,Siam,0.803,0.450,India,China,Indonesia
+Asia,Middle East,0.575,0.365,Ukraine,Kazakhstan,India,East Africa,Egypt,South Europe
+South America,Venezuela,0.162,0.533,Central America,Peru,Brazil
+South America,Brazil,0.270,0.640,Venezuela,Peru,Argentina,North Africa
+South America,Peru,0.180,0.660,Venezuela,Brazil,Argentina
+South America,Argentina,0.200,0.800,Peru,Brazil
+Europe,Britain,0.410,0.180,Iceland,Scandinavia,North Europe,West Europe
+Europe,Iceland,0.375,0.116,Greenland,Britain,Scandinavia
+Europe,Scandinavia,0.470,0.110,Iceland,Britain,North Europe,Ukraine
+Europe,Ukraine,0.547,0.174,Scandinavia,North Europe,South Europe,Middle East,Kazakhstan,Ural
+Europe,West Europe,0.412,0.247,Britain,North Europe,South Europe,North Africa
+Europe,South Europe,0.483,0.260,West Europe,North Europe,Ukraine,Middle East,Egypt,North Africa
+Europe,North Europe,0.465,0.185,Scandinavia,Britain,West Europe,South Europe,Ukraine
+Africa,North Africa,0.435,0.395,West Europe,South Europe,Egypt,East Africa,Congo,Brazil
+Africa,Egypt,0.520,0.350,North Africa,South Europe,Middle East,East Africa 
+Africa,Congo,0.510,0.560,North Africa,East Africa,South Africa
+Africa,East Africa,0.575,0.515,Egypt,Middle East,South Africa,Congo,North Africa,Madagascar
+Africa,South Africa,0.510,0.725,Congo,East Africa,Madagascar
+Africa,Madagascar,0.605,0.685,South Africa,East Africa
+Oceania, Philippines, 0.860, 0.460, China, Indonesia
+Oceania,Indonesia,0.850,0.520,Siam,Philippines,Papua New Guinea,Western Australia
+Oceania,Papua New Guinea,0.935,0.580,Indonesia,Western Australia,Eastern Australia
+Oceania,Western Australia,0.886,0.727,Indonesia,Papua New Guinea,Eastern Australia
+Oceania,Eastern Australia,0.956,0.734,Western Australia,Papua New Guinea
